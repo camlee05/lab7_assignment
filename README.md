@@ -19,7 +19,7 @@
             <li><p>Kết Quả Thực Tế: Đã gửi yêu cầu thành công</p></li>
             <li><p>Trạng Thái: Thành công</p></li>
             <li><p>Kết quả sau khi kiểm thử:</p></li>
-            <img width="468" alt="image" src="https://github.com/gtaAsian/New-Collection-of-APIs/assets/170786444/c340d30f-fea5-4f45-b752-369a1f066f80">
+            ![Uploading image.png…]()
             <li><p>Kết quả kiểm thử chi tiết:</p></li>
             </ul>
     
