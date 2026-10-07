@@ -19,7 +19,7 @@
             <li><p>Kết Quả Thực Tế: Đã gửi yêu cầu thành công</p></li>
             <li><p>Trạng Thái: Thành công</p></li>
             <li><p>Kết quả sau khi kiểm thử:</p></li>
-            ![Uploading image.png…]()
+            <img width="468" alt="image" src="<img width="1470" height="956" alt="Ảnh màn hình 2026-10-07 lúc 10 48 15" src="https://github.com/user-attachments/assets/16f1ffab-2fdd-4b8d-b26b-ad5edef432a0" />">
             <li><p>Kết quả kiểm thử chi tiết:</p></li>
             </ul>
     
