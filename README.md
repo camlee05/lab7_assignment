@@ -13,97 +13,17 @@
             <li><p>Tên Kịch Bản: Kiểm thử cơ bản của 1 URL</p></li>
             <li><p>Mục Đích: Test khả năng hoạt động của URL và phần mềm Postman</p></li>
             <li><p>Phương Thức HTTP (GET/POST/PUT/DELETE): GET</p></li>
-            <li><p>URL: https://random-data-api.com/api/v2/</p></li>
+            <li><p>URL: http://127.0.0.1:8000/api/v1/admin/users</p></li>
             <li><p>Tham Số: users?size=2&is_xml=true</p></li>
             <li><p>Kết Quả Mong Đợi: Gửi yêu cầu thành công</p></li>
             <li><p>Kết Quả Thực Tế: Đã gửi yêu cầu thành công</p></li>
             <li><p>Trạng Thái: Thành công</p></li>
             <li><p>Kết quả sau khi kiểm thử:</p></li>
-            <img width="468" alt="image" src="<img width="1470" height="956" alt="Ảnh màn hình 2026-10-07 lúc 10 48 15" src="https://github.com/user-attachments/assets/16f1ffab-2fdd-4b8d-b26b-ad5edef432a0" />">
+            <img width="1470" height="956" alt="Ảnh màn hình 2026-10-07 lúc 10 48 15" src="https://github.com/user-attachments/assets/ea668919-2154-447d-bd6a-91f1daef9bdf" />
             <li><p>Kết quả kiểm thử chi tiết:</p></li>
             </ul>
     
-    [
-        {  
-        
-            "id": 9209,
-            "uid": "61b0ecef-a169-49c1-9b7e-616aebe82641",
-            "password": "zWosu2p6UN",
-            "first_name": "Davis",
-            "last_name": "Hand",
-            "username": "davis.hand",
-            "email": "davis.hand@email.com",
-            "avatar": "https://robohash.org/corruptiutrepudiandae.png?size=300x300&set=set1",
-            "gender": "Genderfluid",
-            "phone_number": "+223 522.344.8113",
-            "social_insurance_number": "625916069",
-            "date_of_birth": "1978-03-23",
-            "employment": {
-                "title": "Sales Consultant",
-                "key_skill": "Problem solving"
-            },
-            "address": {
-                "city": "Port Sid",
-                "street_name": "Shizuko Unions",
-                "street_address": "7042 Mei Union",
-                "zip_code": "56023-6796",
-                "state": "Texas",
-                "country": "United States",
-                "coordinates": {
-                    "lat": 29.124815080601806,
-                    "lng": -52.01789697476312
-                }
-            },
-            "credit_card": {
-                "cc_number": "6771-8982-4885-7139"
-            },
-            "subscription": {
-                "plan": "Premium",
-                "status": "Active",
-                "payment_method": "Money transfer",
-                "term": "Monthly"
-            }
-        },
-        {
-            "id": 4506,
-            "uid": "1f8ef347-e420-4e50-8b66-8cf92ab6ad74",
-            "password": "RQpDo89cFw",
-            "first_name": "Trent",
-            "last_name": "Quitzon",
-            "username": "trent.quitzon",
-            "email": "trent.quitzon@email.com",
-            "avatar": "https://robohash.org/quibusdamautquisquam.png?size=300x300&set=set1",
-            "gender": "Genderqueer",
-            "phone_number": "+675 (698) 414-6258 x469",
-            "social_insurance_number": "193053717",
-            "date_of_birth": "1999-03-10",
-            "employment": {
-                "title": "Legal Administrator",
-                "key_skill": "Leadership"
-            },
-            "address": {
-                "city": "Schroederchester",
-                "street_name": "Macejkovic Via",
-                "street_address": "5634 Tyron Ferry",
-                "zip_code": "75541",
-                "state": "Alabama",
-                "country": "United States",
-                "coordinates": {
-                    "lat": 22.21205024489973,
-                    "lng": 139.04500158922622
-                }
-            },
-            "credit_card": {
-                "cc_number": "4409687671791"
-            },
-            "subscription": {
-                "plan": "Starter",
-                "status": "Pending",
-                "payment_method": "Apple Pay",
-                "term": "Full subscription"
-            }
-        }
-    ]
+[{"id":7,"username":"camlee05","contact_info":"0123456789","hwid":"4c0cdd6a2b3545c75decb6decca1d89a5acb4db1bd272de4243befcca24958c1","role":"user","status":"pending","expired_at":null,"created_at":"2026-10-06T02:15:02.443149Z","days_remaining":null,"last_login_at":null,"last_login_ip":null,"is_online":false,"last_active_at":null,"last_hwid_reset_at":null},{"id":6,"username":"camlee04","contact_info":"0123456789","hwid":"4c0cdd6a2b3545c75decb6decca1d89a5acb4db1bd272de4243befcca24958c1","role":"user","status":"pending","expired_at":null,"created_at":"2026-10-06T02:06:46.798700Z","days_remaining":null,"last_login_at":null,"last_login_ip":null,"is_online":false,"last_active_at":null,"last_hwid_reset_at":null},{"id":5,"username":"camlee03","contact_info":"0123456789","hwid":"4c0cdd6a2b3545c75decb6decca1d89a5acb4db1bd272de4243befcca24958c1","role":"user","status":"pending","expired_at":null,"created_at":"2026-10-05T08:52:43.437938Z","days_remaining":null,"last_login_at":null,"last_login_ip":null,"is_online":false,"last_active_at":null,"last_hwid_reset_at":null},{"id":4,"username":"camlee02","contact_info":"0123456789","hwid":"4c0cdd6a2b3545c75decb6decca1d89a5acb4db1bd272de4243befcca24958c1","role":"user","status":"rejected","expired_at":null,"created_at":"2026-10-05T07:17:45.500287Z","days_remaining":null,"last_login_at":null,"last_login_ip":null,"is_online":false,"last_active_at":null,"last_hwid_reset_at":null},{"id":3,"username":"camlee01","contact_info":"0123456789","hwid":"4c0cdd6a2b3545c75decb6decca1d89a5acb4db1bd272de4243befcca24958c1","role":"user","status":"expired","expired_at":"2026-09-05T07:16:23.273607Z","created_at":"2026-10-05T07:16:07.690262Z","days_remaining":0,"last_login_at":"2026-10-05T07:16:43.032656Z","last_login_ip":"127.0.0.1","is_online":false,"last_active_at":"2026-10-05T07:17:19.384539Z","last_hwid_reset_at":null},{"id":2,"username":"camlee","contact_info":"0123456789","hwid":"4c0cdd6a2b3545c75decb6decca1d89a5acb4db1bd272de4243befcca24958c1","role":"user","status":"approved","expired_at":"2026-11-01T01:43:08.407009Z","created_at":"2026-10-02T01:41:12.139671Z","days_remaining":25,"last_login_at":"2026-10-05T13:35:57.652199Z","last_login_ip":"127.0.0.1","is_online":false,"last_active_at":"2026-10-05T13:35:57.652199Z","last_hwid_reset_at":null}]
 <div>    
     <strong>Kịch Bản Kiểm Thử Lần 2:</strong>
             <ul>
